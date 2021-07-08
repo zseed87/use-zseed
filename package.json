@@ -34,7 +34,22 @@
     "trailingComma": "es5"
   },
   "name": "use-zseed",
-  "author": "zseed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zseed87/use-zseed.git"
+  },
+  "keywords": [
+    "zseed87",
+    "hooks"
+  ],
+  "author": {
+    "name": "zseed87",
+    "email": "982747322@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/zseed87/use-zseed/issues"
+  },
+  "homepage": "https://github.com/zseed87/use-zseed#readme",
   "module": "dist/tsdx.esm.js",
   "size-limit": [
     {

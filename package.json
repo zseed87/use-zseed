@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-zseed",
+  "name": "@zseed/use-zseed",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zseed87/use-zseed.git"
@@ -66,13 +66,9 @@
     "@types/react": "^17.0.14",
     "@types/react-dom": "^17.0.9",
     "antd": "^4.16.6",
-    "autoprefixer": "^10.2.6",
-    "cssnano": "^5.0.6",
     "husky": "^7.0.1",
-    "less": "^4.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "rollup-plugin-postcss": "^4.0.0",
     "size-limit": "^5.0.1",
     "tsdx": "^0.14.1",
     "tslib": "^2.3.0",

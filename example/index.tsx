@@ -4,6 +4,8 @@ import * as ReactDOM from 'react-dom';
 import { useTable } from '../.';
 import { Table } from "antd";
 
+import "antd/dist/antd.css"
+
 const App = () => {
   const {
 		//table属性参数
